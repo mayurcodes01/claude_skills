@@ -1,0 +1,7 @@
+{
+  "name": "claude-skills",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Skillshelf: a library of Claude SKILL.md files, served from this repo's skills folder.",
+  "engines": { "node": ">=20" }
+}
